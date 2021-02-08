@@ -11,8 +11,9 @@ function App() {
     <MyHeader />
     <MyImageSection />
     <MyRecipes />
-    <MyFooter />
     <IngredientList />
+    <MyFooter />
+    
     </>
   )}
 
