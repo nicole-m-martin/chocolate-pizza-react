@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 
 export const IngredientArray = [
   {
@@ -50,4 +50,4 @@ export const IngredientArray = [
     name: 'honey pecans'
   }
   
-] 
+];

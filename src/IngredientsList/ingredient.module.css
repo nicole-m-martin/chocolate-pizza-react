@@ -1,0 +1,15 @@
+.divBackground {
+    background-image: url('../assets/list-bg.png');
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ingredientColumn1 {
+    margin-left: 50px;
+}
+
+.ingredientColumn2 {
+    margin-right: 80px;
+}
+
