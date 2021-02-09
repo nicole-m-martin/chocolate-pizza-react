@@ -4,16 +4,14 @@
   font-family: cursive;
 }
 
-/* .container {
-  display: inline-flex;
-  background-color: aqua;
-} */
-/* 
-button {
-  top: 20px;
-  margin-right: 10rem;
-  display: inline-block;
-} */
+.bar-img {
+  background-image: url("../assets/hr-img.png");
+  background-repeat: repeat;
+  width: 900px;
+  height:10px;
+  margin: 10px 0px 10px 0px;
+}
+
 
 .btnDiv {
   width: 100%;

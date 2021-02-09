@@ -1,0 +1,23 @@
+/* .footerContainer {
+    
+} */
+
+.section2 {
+    border-top: 1px solid black;
+
+
+}
+
+.logo {
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+p {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+}
