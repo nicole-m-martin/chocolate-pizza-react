@@ -8,10 +8,10 @@ export default class MyFooter extends React.Component {
     return (
       <div className={style.footerContainer}>
         <section>
-          <img alt="Vanessa" className='headshot' src={vanessa} />
+          <img alt="Vanessa" className={style.vanessa} src={vanessa} />
           <h3>Vanessa Stevenson</h3>
           <article>Food enthusiast, photography fan. Add a pinch of raw foodism and that's pretty much who I am.</article>
-          <button></button>
+          <button>SHARE RECIPE</button>
         </section>
         <section className={style.section2}>
           <img alt="logo" className={style.logo} src={smallLogo} />
