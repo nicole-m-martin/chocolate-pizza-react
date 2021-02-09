@@ -1,0 +1,38 @@
+.headerDiv {
+  display: flex;
+  flex-direction: row;
+  font-family: cursive;
+}
+
+/* .container {
+  display: inline-flex;
+  background-color: aqua;
+} */
+/* 
+button {
+  top: 20px;
+  margin-right: 10rem;
+  display: inline-block;
+} */
+
+.btnDiv {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.btn {
+  height: 25px;
+  margin: 3px;
+}
+.logo {
+  height: 25px;
+  margin-top: 35px;
+  margin-right: 5px;
+}
+
+.line {
+  height: 10px;
+  background-color: black;
+  display: block;
+}
