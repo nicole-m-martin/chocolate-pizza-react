@@ -1,23 +1,32 @@
-/* .footerContainer {
-    
-} */
-
 .section2 {
-    border-top: 1px solid black;
-
-
+  border-top: 1px solid black;
+  text-align: center;
+  margin-top: 15px;
 }
 
 .logo {
-    justify-items: center;
-    justify-content: center;
-    align-content: center;
+  justify-items: center;
+  justify-content: center;
+  align-content: center;
 }
 
 p {
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-    justify-items: center;
-    align-content: center;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+.vanessa {
+  float: left;
+  padding-right: 10px;
+}
+
+button {
+  float: right;
+  width: 150px;
+  height: 60px;
+  background-color: #bb3f19;
+  color: white;
 }

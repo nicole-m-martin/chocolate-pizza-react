@@ -1,8 +1,8 @@
 html {
-  display:flex;
+  display: flex;
   flex-direction: column;
   justify-items: center;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   align-content: center;
 }
